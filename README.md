@@ -6,7 +6,7 @@ DSMRC-S is a Extractive summarization method based on Machine Reading Comprehens
 
 The overall architecture of DSMRC-S is:
 
-![avatar](picture/overall.png)
+![image](https://github.com/marmorb/DSMRC-S/blob/main/picture/overall.png)
 
 ## Requirements
 ```
