@@ -20,12 +20,12 @@ In DSMRC-S, the text summarization task is transformed into a two-stage machine 
 The first stage: predicts the probability of token appearing in the answer.
 
 ```
-python train_file.py
+python big_data_train_file.py
 ```
 
 The second stage: extracts the answer based on the probabilities and the exctration strategy.
 
 ```
-python predict_file.py
+python big_data_predict_file.py
 ```
 The results will be saved in predict_result folder.
