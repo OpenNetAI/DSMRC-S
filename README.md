@@ -5,8 +5,7 @@ This is the implementation of [Distant Supervision based Machine Reading Compreh
 DSMRC-S is a Extractive summarization method based on Machine Reading Comprehension and Distant Supervision.
 
 The overall architecture of DSMRC-S is:
-
-![image](https://github.com/marmorb/DSMRC-S/blob/main/picture/overall.png)
+![overall.png](https://i.loli.net/2021/10/18/sqYgroMp9Fh4IAE.png)
 
 ## Requirements
 ```
