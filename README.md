@@ -14,7 +14,7 @@ numpy == 1.18.1
 pytorch == 1.4.0
 ```
 
-##Running 
+## Running 
 In DSMRC-S, the text summarization task is transformed into a two-stage machine reading comprehension (MRC) task.
 
 The first stage: predicts the probability of token appearing in the answer.
